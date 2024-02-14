@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(upo_nhoa_msgs)
+project(nhoa_upo_perception_msgs)
 
 find_package(catkin REQUIRED COMPONENTS
 	std_msgs
